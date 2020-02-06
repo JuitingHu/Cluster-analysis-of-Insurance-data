@@ -1,1 +1,1 @@
-# Cluster analysis of Sabre Insurance data
+# Cluster analysis of Insurance data
