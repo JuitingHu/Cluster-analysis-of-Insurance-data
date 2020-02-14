@@ -6,9 +6,9 @@ Nowadays, most insurance companies use machine learning widely to help their bus
 
 This dataset provided in this project is exactly this scenario. It contains 65,340 data entries and 347 features describing a hccv. The task set is to find a lower dimension representation of the data to be used in downstream tasks.
 
-Before starting, we review lots of literature to find which analysis methods suit for this dataset. Clustering is the chosen method to do this. The reasons:  
-▪️ Cluster is one of unsupervised learning methods. 
-
+Before starting, we review lots of literature to find which analysis methods suit for this dataset. Clustering is the chosen method to do this. 
+The reasons:  
+▪️ Cluster is one of unsupervised learning methods. </br>
 ▪️ Cluster can be used in big data. 
 
 ▪️ Through cluster analysis, data objects are grouped into several clusters. Data objects within the same cluster are more similar, and vice versa. This can represent a lower dimension of data.
