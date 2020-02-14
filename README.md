@@ -13,8 +13,8 @@ The reasons:</br>
 ▪️ Through cluster analysis, data objects are grouped into several clusters. Data objects within the same cluster are more similar, and  vice versa. This can represent a lower dimension of data.</br>
 
 The following steps are:</br> 
-▪️ Data Cleaning</br>
-▪️ Distance matrix computation</br>
+▪️ Data Cleaning.</br>
+▪️ Distance matrix computation.</br>
 ▪️ Using three algorithms, hierarchical agglomerative clustering(HAC), hierarchical density-based-spatial clustering of applications with noise (HDBSCAN) and k-medoids to build the models.</br> 
 
 
