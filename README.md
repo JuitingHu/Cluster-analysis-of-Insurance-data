@@ -11,8 +11,7 @@ Before starting, we review lots of literature to find which analysis methods sui
 The reasons:
 ▪️ Cluster is one of unsupervised learning methods.</br>
 ▪️ Cluster can be used in big data.</br>
-▪️ Through cluster analysis, data objects are grouped into several clusters. Data objects within the same cluster are more similar, and   
-  vice versa. This can represent a lower dimension of data.</br>
+▪️ Through cluster analysis, data objects are grouped into several clusters. Data objects within the same cluster are more similar, and vice versa. This can represent a lower dimension of data.</br>
 
 The following steps are:</br> 
 ▪️ Data Cleaning</br>
