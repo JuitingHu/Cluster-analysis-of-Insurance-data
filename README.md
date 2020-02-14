@@ -8,8 +8,11 @@ This dataset provided in this project is exactly this scenario. It contains 65,3
 
 Before starting, we review lots of literature to find which analysis methods suit for this dataset. Clustering is the chosen method to do this. The reasons:  
 ▪️ Cluster is one of unsupervised learning methods. 
+
 ▪️ Cluster can be used in big data. 
+
 ▪️ Through cluster analysis, data objects are grouped into several clusters. Data objects within the same cluster are more similar, and vice versa. This can represent a lower dimension of data.
+
 
 The following steps are: 
 ▪️ Data Cleaning
